@@ -1,49 +1,36 @@
-# Activist Toolkit Sample Project
+DIVERSIFIANCE — Diversity & Inclusivity in the I.T. World
+Overview
+DIVERSIFIANCE is a self-directed web platform built to address the lack of diversity and inclusivity in the IT field. The project combines original research, community interviews, and curated resources to encourage underrepresented youth — particularly young women — to explore careers in technology.
+The platform features interviews with students, educators, and IT professionals sharing their experiences with access, representation, and opportunity in tech, alongside a curated resource hub and an interactive fact display designed to inspire and inform.
 
-This is a place for you to start building your activist toolkit!
+Features
 
-
-### Project Requirements
-Your project should:
-- Build a multipage website using HTML, CSS, and JavaScript.
-- Implement at least one of the key features from the menu. 
-- Customize the look and feel of your site through colors, images, and fonts using CSS.
-- Include alt text for every image in your website.
-- Use code comments to describe your code.
-
-
-### Extensions
-You can extend your project further by:
-- Refactor your code.
-- Add a nice-to-have feature.
-- Port to GitHub pages.
-- Add another key feature.
+Multi-page website built with HTML, CSS, and JavaScript
+Original interview content from students, educators, and IT professionals
+Interactive JavaScript fact display cycling through IT career insights
+Resource hub curating affordable and accessible tech learning tools
+Responsive design focused on accessibility and user experience
 
 
-### Image Attributions
+Tech Stack
 
----
-
-## File Overview
-
-### ← README.md
-
-That's this file. This is the place to tell people more about what your website does and how you built it. 
-
-### ← index.html
-
-HTML files are for content! Add your text, images, buttons, and more using HTML tags.
-
-### ← style.css
-
-CSS files add styling rules to your content like changing colors and fonts. 
-
-### ← script.js
-
-JavaScript files add interactivity to your website using code. This is where you can listen for events, then take an action.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project. You do not need to add anything to this folder unless you are working on the extensions. If you are adding an image, it is best to save it to your computer, then upload the file to the `assets` folder. The url of the image will be `assets/example.jpg`.
+HTML5
+CSS3
+JavaScript
+Hosted on Replit
 
 
+Purpose
+This project was built in response to a real gap — students from underrepresented backgrounds often lack access to the resources, role models, and information needed to enter the tech field. DIVERSIFIANCE aimed to put that information in one place and make it feel welcoming.
+
+Skills Demonstrated
+
+Front-end web development — HTML, CSS, JavaScript
+User research and interview methodology
+Content curation and structured data organization
+Human-centered design thinking
+Independent project execution from idea to deployment
+
+
+Author
+Alessia Amuzu | University of Virginia | B.S. Data Science
